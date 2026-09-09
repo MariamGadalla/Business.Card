@@ -17,7 +17,7 @@ tag_payload: both            # URI record + vCard record on the chip
 identity:    combined        # work role + personal links on one page
 hosting:     github-pages    # personal account, mariamfarouk@icloud.com
 
-card_url:    ""              # TODO filled after the Pages repo goes live
+card_url:    https://mariamgadalla.github.io/Business.Card/
 
 accent:      "#c9a86a"     # gold on near-black, single committed look (no light theme)
 photo:       photo.jpg    # save your headshot here as photo.jpg; falls back to MG monogram if missing
