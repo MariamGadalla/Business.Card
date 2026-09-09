@@ -1,0 +1,23 @@
+# Single source of truth. Correct anything marked TODO and I regenerate.
+name:        Mariam Gadalla
+job_title:   AI Engineer
+company:     Sanzen Project Management L.L.C
+tagline:     LLM automation, multi-agent systems, in-house ERP and CRM
+location:    Dubai, UAE
+
+phone:       "+971523389044"
+email_work:  mariam.gadalla@sanzen.ae
+email_personal: mariamfarouk@icloud.com
+website:     ""                              # TODO blank = omitted
+
+linkedin:    https://linkedin.com/in/mariam-gadalla
+
+# Decisions made 2026-09-09
+tag_payload: both            # URI record + vCard record on the chip
+identity:    combined        # work role + personal links on one page
+hosting:     github-pages    # personal account, mariamfarouk@icloud.com
+
+card_url:    ""              # TODO filled after the Pages repo goes live
+
+accent:      "#c9a86a"     # gold on near-black, single committed look (no light theme)
+photo:       photo.jpg    # save your headshot here as photo.jpg; falls back to MG monogram if missing

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gadalla;Mariam;;;
+FN:Mariam Gadalla
+ORG:Sanzen Project Management L.L.C
+TITLE:AI Engineer
+TEL;TYPE=CELL,VOICE:+971523389044
+EMAIL;TYPE=WORK,INTERNET:mariam.gadalla@sanzen.ae
+EMAIL;TYPE=HOME,INTERNET:mariamfarouk@icloud.com
+ADR;TYPE=WORK:;;;Dubai;;;United Arab Emirates
+URL:https://linkedin.com/in/mariam-gadalla
+NOTE:LLM automation, multi-agent systems, and in-house ERP and CRM platforms.
+END:VCARD
